@@ -18,7 +18,7 @@ Here is the tutorial\
 ## Screenshots
 ![IMG_20210330_225334](https://user-images.githubusercontent.com/81551733/113196907-a4e77200-9281-11eb-9c49-922a1e577e6c.jpg)&nbsp; &nbsp; &nbsp;
 ![IMG_20210331_235855](https://user-images.githubusercontent.com/81551733/113196946-afa20700-9281-11eb-8a00-e7be0edb2c5e.jpg)&nbsp; &nbsp; &nbsp;
-![IMG_20210330_225512](https://user-images.githubusercontent.com/81551733/113196868-9ac57380-9281-11eb-814b-1bddcc5bcd5a.jpg)&nbsp; &nbsp; &nbsp; /
+![IMG_20210330_225512](https://user-images.githubusercontent.com/81551733/113196868-9ac57380-9281-11eb-814b-1bddcc5bcd5a.jpg)&nbsp; &nbsp; &nbsp; \
 ![IMG_20210401_000038](https://user-images.githubusercontent.com/81551733/113196914-a9138f80-9281-11eb-9cda-303f930b8e3c.jpg)&nbsp; &nbsp; &nbsp; 
 ![IMG_20210330_225437](https://user-images.githubusercontent.com/81551733/113196896-a2851800-9281-11eb-8e60-6c487bf3e39c.jpg)
 
