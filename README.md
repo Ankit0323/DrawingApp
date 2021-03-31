@@ -12,7 +12,7 @@ A simple drawing app that let's you create drawings with your finger, allows you
 ### This app has features like undo drawing , change brush size[1-5] and color.
 Here is the tutorial\
 ![mymain](https://user-images.githubusercontent.com/81551733/113196811-87b2a380-9281-11eb-8998-0506ffaf255c.gif)\
-### It also has features like add background image | customization | Share image | Save image.
+### It also has features like Upload and customize background image | Share image | Save image.
 Here is the tutorial\
 ![draw](https://user-images.githubusercontent.com/81551733/113196822-8bdec100-9281-11eb-860f-ae40895e93dc.gif)\
 ## Screenshots
