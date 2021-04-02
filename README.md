@@ -7,7 +7,7 @@ A simple drawing app that let's you create drawings with your finger, allows you
 4.Add background image and customize.\
 5.Clear entire drawing.\
 6.Save image to storage.\
-7.Share image to online platforms.\
+7.Share image to online platforms.
 ## Video Tutorial
 ### This app has features like Undo drawing , change Brush size[1-5] and Color.
 Here is the tutorial\
